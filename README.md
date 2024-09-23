@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
+![image](https://github.com/user-attachments/assets/8a9f5d06-df5e-4a4a-b756-dac25ffa6536)<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/937aecd1-e4b7-4a73-8fc7-1303b5619092)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaguptacs22&label=Profile%20views&color=0e75b6&style=flat" alt="adityaguptacs22" /> </p>
 
