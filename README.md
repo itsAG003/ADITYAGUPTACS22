@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a9f5d06-df5e-4a4a-b756-dac25ffa6536)<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
+<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
