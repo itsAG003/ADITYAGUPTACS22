@@ -1,4 +1,3 @@
-![logo](https://github.com/Rudragupta-1/Rudragupta-1/blob/main/bannerGitHub.png)
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
